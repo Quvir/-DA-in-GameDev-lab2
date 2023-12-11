@@ -190,7 +190,6 @@ public class NewBehaviourScript : MonoBehaviour
 ```
 - В этом скрипте при увеличении счётчика срабатывает функция PlaySelectAudioNormal(), при обнулнии счётчика функция PlaySelectAudioBad(), а при получении награды функция PlaySelectAudioGood().
 - Запускаем скрипт и слышим необходимые звуки, а также наши значения в окне вывода:
-![изображение](https://github.com/Quvir/-DA-in-GameDev-lab2/blob/main/%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4.png)
  
 ## Выводы
 
